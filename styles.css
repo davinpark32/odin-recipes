@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.title {
+    color: orange;
+}
+
+div.container {
+    text-align: center;
+}
+
+ol.myUL,
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+div {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.box {
+    margin-bottom: 16px;
+}
